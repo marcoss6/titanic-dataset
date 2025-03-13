@@ -19,15 +19,3 @@ Utiliza una serie de datos procedentes de Kaggle (PySpark ML Model for Predictin
 ## 📌 Notas
 - Se recomienda usar Google Colab para ejecutar el notebook, ya que PySpark puede requerir configuraciones adicionales en entornos locales.
 - Los archivos `.csv` contienen los datos necesarios para el entrenamiento y la evaluación.
-
-
-
-
-
-
-
-
-
-
-
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoss6/titanic-dataset/blob/main/EFC-BigData-Marcos_Cifuentes_Suarez.ipynb)
